@@ -1,0 +1,24 @@
+server:
+  address: ":8080"
+  read_timeout_seconds: 15
+  write_timeout_seconds: 15
+
+database:
+  host: "localhost"
+  port: 5432
+  user: "postgres"
+  password: "postgres"
+  name: "lumora"
+  sslmode: "disable"
+  max_open_conns: 10
+  max_idle_conns: 5
+  conn_max_lifetime_seconds: 300
+
+auth:
+  jwt_secret: "supersecretkey"
+  access_token_ttl_minutes: 60
+
+log:
+  level: "info"
+  format: "text"
+

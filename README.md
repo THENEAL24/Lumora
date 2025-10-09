@@ -27,21 +27,6 @@
 - 📱 **Адаптивный дизайн** — отлично работает на всех устройствах
 - 🚀 **Backend на Go** — быстрый и надежный REST API
 
-## 🖼️ Скриншоты
-
-<div align="center">
-
-### Главный экран
-<img src="https://via.placeholder.com/700x400/667eea/ffffff?text=Main+Screen" alt="Main Screen" width="500"/>
-
-### Настройка времени
-<img src="https://via.placeholder.com/700x400/667eea/ffffff?text=Time+Picker+Modal" alt="Time Picker" width="500"/>
-
-### Режим перерыва
-<img src="https://via.placeholder.com/700x400/10b981/ffffff?text=Break+Mode" alt="Break Mode" width="500"/>
-
-</div>
-
 ## 🚀 Быстрый старт
 
 ### Предварительные требования

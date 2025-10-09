@@ -8,12 +8,6 @@
 
 **Современный и элегантный таймер Pomodoro с минималистичным дизайном**
 
-[Демо](#demo) • [Возможности](#features) • [Установка](#installation) • [Использование](#usage) • [API](#api)
-
-<img src="https://via.placeholder.com/800x450/667eea/ffffff?text=LUMORA+Timer+Preview" alt="LUMORA Preview" width="600"/>
-
-</div>
-
 ---
 
 ## ✨ Возможности
